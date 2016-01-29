@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/exploded-aar/Android-PullToRefresh-sample/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83b7ea10ff74b984e69a9542c727f645d2a43ae5">
+        <dex dex="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/pre-dexed/debug/classes-3021af7db13cb836ef698c7fe32c9c18ef2e1484.jar" />
+    </item>
+    <item
+        jar="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/exploded-aar/Android-PullToRefresh-sample/pullToRefreshViewPager/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0352bbeecfb805572cb0d36d7420b6372a1dd647">
+        <dex dex="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/pre-dexed/debug/classes-36b63d8ad1a3671cb607d5415915ff66f28bf36f.jar" />
+    </item>
+    <item
+        jar="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/pre-dexed/debug/classes-2b96c41b422ad33b8a98555809c811d2eee7de89.jar" />
+    </item>
+    <item
+        jar="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/exploded-aar/Android-PullToRefresh-sample/pullToRefreshListFragment/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="041fb3a7e737010037bc6f36874baf4f44bd936f">
+        <dex dex="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/pre-dexed/debug/classes-0b2a3b8999262560f6b0bf492464534b89dd8564.jar" />
+    </item>
+    <item
+        jar="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-b43e450021c292586961c53a8c8dc449ff449c20.jar" />
+    </item>
+    <item
+        jar="/Applications/dev/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-421d8982af1a0e54a3a68eb95c474fefedf98b70.jar" />
+    </item>
+    <item
+        jar="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/mrsimple/dev/github/Android-PullToRefresh-sample/sample/build/intermediates/pre-dexed/debug/classes-1587e4f56d788856ad2d16f3737e9a86525f8baa.jar" />
+    </item>
+
+</items>

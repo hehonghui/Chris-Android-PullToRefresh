@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mrsimple/dev/github/Android-PullToRefresh-sample/pullToRefreshViewPager/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="viewpager" type="id"/>
+</resources>
